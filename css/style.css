@@ -30,3 +30,16 @@ header h1{
     margin: 0 auto;
     box-shadow: 0 10px 40px rgba(0,0,0,0,1);
 }
+
+#dashboard-container h2 {
+    color: #667eea;
+    margin-bottom: 15px;
+    border-bottom: 3px solid #667eea;
+    padding-bottom: 10px;
+}
+
+#dashboard-container p {
+    font-size: 1.1rem;
+    margin: 10px 0;
+    color: #333;
+}
